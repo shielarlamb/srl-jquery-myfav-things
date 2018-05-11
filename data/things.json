@@ -1,0 +1,73 @@
+{
+	"things": [
+		{
+			"name": "Yu yu Hakusho",
+			"id": "yuyu",
+			"type": "anime",
+			"img": "YuyuHakusho.jpg"
+},
+
+		{
+			"name": "Dragon Ball Z",
+			"id": "dbz",
+			"type": "anime",
+			"img": "DragonbalZ.jpg"
+},
+
+		{
+			"name": "Fushigi Yuugi",
+			"id": "fs",
+			"type": "anime",
+			"img": "FushigiYuugi.jpg"
+},
+
+		{
+			"name": "Purses",
+			"id": "purse",
+			"type": "accessories",
+			"img": "purse.jpg"
+},
+
+		{
+			"name": "Shoes",
+			"id": "shoes",
+			"type": "accessories",
+			"img": "shoes.JPG"
+},
+
+		{
+			"name": "Filipino Food",
+			"id": "food",
+			"type": "accessories",
+			"img": "food.jpg"
+},
+
+		{
+			"name": "Italy",
+			"id": "italy",
+			"type": "travel",
+			"img": "coliseum_of_rome_italy_.jpg"
+},
+		{
+			"name": "France",
+			"id": "france",
+			"type": "travel",
+			"img": "france.jpg"
+},
+		{
+			"name": "United Kingdom",
+			"id": "uk",
+			"type": "travel",
+			"img": "ukcastle.jpg"
+}
+		
+
+]
+
+
+
+
+
+
+
+}

@@ -1,0 +1,102 @@
+body {
+	padding: 60px;
+	background-color:black;
+}
+#thingsDiv {
+	box-shadow: 10px 5px 5px #800000;
+	border-style: inset;
+	padding: 20px;
+	background-color: lightblue;
+	border-radius: 50px;
+}
+
+h1 {
+	font-family: Papyrus, calibri, sans-serif;
+	color:firebrick;
+	font-weight: 1000;
+	text-align: center;
+	border-color: firebrick;
+	box-shadow: 5px 5px 5px 5px #800000;
+	border-radius: 50px;
+	background-image: radial-gradient(white, lightblue);
+	padding: 20px;
+	font-size: 2.5em;
+	font-weight: bolder;
+}
+
+h2 {
+	font-family: calibri, sans-serif;
+	color:firebrick;
+	padding-top: 5px;
+	font-size: 1.5em;
+}
+
+p {
+	font-family: calibri, sans-serif;
+	padding-left: 20px;
+	padding-right: 30px;
+	color: #000080;
+	
+
+	
+	
+}
+
+ul {
+	display: inline-block;
+	padding-left: 50px;
+	
+}
+
+li{
+	list-style: none;
+	font-family: calibri, sans-serif;
+	padding-bottom: 10px;
+	font-weight: bold;
+	color: firebrick;
+	font-size: 1.2em;
+	width: 300px;
+	text-align: center;
+	position: relative;
+	display: inline-block;
+	margin-left: 20PX;
+	margin-right: 20px;
+	
+	
+}
+
+img {
+	padding-top: 20px;
+	width: 300px;
+	
+	
+}
+
+#resources
+{
+	font-family: calibri, sans-serif;
+}
+footer {
+	text-align: center;
+	font-family: calibri, sans-serif;
+}
+
+
+
+a:hover { 
+    background-color: springgreen;
+	text-decoration: none;
+}
+a:link {
+    color: green;
+	text-decoration: none;
+}
+a:visited {
+    color: firebrick;
+	text-decoration: none;
+}
+
+a:active {
+    color: red;
+	text-decoration: none;
+}
